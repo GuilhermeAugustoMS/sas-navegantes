@@ -1,0 +1,12 @@
+﻿node_modules/
+dist/
+*.local
+.env
+.env.local
+
+# Dados reais da escola: nunca versionar
+backend/data/
+*.xlsx
+*.xls
+*.csv
+*.zip
